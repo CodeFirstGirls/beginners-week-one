@@ -1,0 +1,22 @@
+body {
+	color: rgb(49,58,69);
+	font-family: arial;
+}
+
+p, ol, ul {
+	background-color: rgb(227,223,235);
+	width: 70%;
+	padding: 25px;
+	margin: 0 auto;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  display: flex;
+  margin: 0 auto;
+  padding: 20px;
+}
+
