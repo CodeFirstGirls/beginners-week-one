@@ -1,22 +1,79 @@
 body {
-	color: rgb(49,58,69);
-	font-family: arial;
+	color: rgb(65,75,86);
+  font-family: arial;
+  margin: 0;
 }
 
-p, ol, ul {
-	background-color: rgb(227,223,235);
-	width: 70%;
-	padding: 25px;
-	margin: 0 auto;
+div {
+  min-height: 100vh;
+  width: 100vw;
 }
 
 h1, h2 {
   text-align: center;
+} 
+
+h1 {
+  font-size: 5em;
+}
+h2 {
+  font-size: 2.5em;
 }
 
 img {
   display: flex;
   margin: 0 auto;
   padding: 20px;
+  border-radius: 130px;
 }
 
+p {
+  width: 40%;
+  margin: 0 10vw 10vh 10vw;
+  font-size: 2em;
+}
+
+a {
+  color: rgb(0,0,0);
+}
+
+ol {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 10%;
+  font-size: 3em;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+li#lower {
+  margin-top: 7%;
+}
+
+li#lowest {
+  margin-top: 14%;
+}
+
+div.contrast {
+  background-color: rgb(0,0,0);
+  color: rgb(255,255,255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+}
+
+li {
+  margin: 0 20px;
+  transition: 0.6s ease;
+}
+/* Getting snazzy... */
+li:hover {
+  font-size: 1.2em;
+  transition: 0.6s ease;
+}
