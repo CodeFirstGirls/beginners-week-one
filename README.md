@@ -3,7 +3,7 @@
 
 Welcome to Code First Girls!
 
-To complete this excercise, click on the green `Clone or Download` button on the top right, and select the `Download ZIP` option.
+To complete this exercise, click on the green `Clone or Download` button on the top right, and select the `Download ZIP` option.
 
 Unzip the folder and move it into your `coding_course` folder. Then, open the whole folder in Atom.
 
@@ -13,7 +13,7 @@ Unzip the folder and move it into your `coding_course` folder. Then, open the wh
 Open the file `example.html` in Chrome and look around with the developer tools. What HTML tags can you see, and what do you think they stand for?
 
 ## Task two
-Open the file `index.html` in your text editor and in Chrome, change it into valid HTML file so that it looks like `index_solution.jpg`. Make sure to add the `doctype`, `html`, `head`, and `body` tags!
+Open the file `index.html` in your text editor and in Chrome, change it into valid HTML file so that it looks like `solution.jpg`. Make sure to add the `doctype`, `html`, `head`, and `body` tags!
 
 
 ## Extension task
